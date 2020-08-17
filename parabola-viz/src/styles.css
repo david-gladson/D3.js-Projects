@@ -1,0 +1,27 @@
+body {
+  font-family: sans-serif;
+}
+
+.equ {
+  font-family: Helvetica;
+  font-size: x-large;
+  font-weight: bold;
+}
+
+.rbutton {
+  position: absolute;
+  /* top: 50%; */
+  margin: auto;
+  /* right: 20%; */
+  left: 30%;
+}
+
+.resetbutton {
+  position: absolute;
+  margin: auto;
+  left: 45%;
+}
+
+div {
+  display: block;
+}
