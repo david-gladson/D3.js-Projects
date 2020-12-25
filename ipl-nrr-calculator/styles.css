@@ -1,0 +1,58 @@
+body {
+  font-family: sans-serif;
+}
+
+.equ_rcb {
+  font-family: Helvetica;
+  font-size: x-large;
+  font-weight: bold;
+}
+
+.equ_dc {
+  font-family: Helvetica;
+  font-size: x-large;
+  font-weight: bold;
+}
+
+.legend {
+  font-family: Helvetica;
+  font-weight: bold;
+}
+
+.nrr {
+  font-family: Helvetica;
+  font-weight: bold;
+}
+
+.rcb_nrr {
+  font-family: Helvetica;
+  font-weight: bold;
+}
+
+.dc_nrr {
+  font-family: Helvetica;
+  font-weight: bold;
+}
+
+.kkr_nrr {
+  font-family: Helvetica;
+  font-weight: bold;
+}
+
+.rbutton {
+  position: absolute;
+  /* top: 50%; */
+  margin: auto;
+  /* right: 20%; */
+  left: 30%;
+}
+
+.resetbutton {
+  position: absolute;
+  margin: auto;
+  left: 45%;
+}
+
+div {
+  display: block;
+}
